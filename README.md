@@ -12,10 +12,12 @@
   </p>
 
 <h2> 💻 Como acessar:</h2>
-<p>Clone o repositório: https://github.com/ramonxm/my-pokedex.git <br>
-  e acesse utilizando a extensão Live Server.
-</p>
 
+```md
+Clone o repositório: 
+htps://github.com/ramonxm/my-pokedex.git 
+e acesse utilizando a extensão Live Server.
+```
 
 <br>
 
